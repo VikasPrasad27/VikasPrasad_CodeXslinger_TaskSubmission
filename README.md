@@ -5,6 +5,9 @@
 - 🔍 **Product Search**: Users can search for products by name.
 - 📡 **Backend API**: ExpressJs used to manage Route and Database to store data, From which we can fetch onto frontend.
 
+## Techstack used
+Reactjs , Tailwindcss , ExpressJs, MongoDB
+
 ## Screenshots
 
 Here are some screenshots of the application:
